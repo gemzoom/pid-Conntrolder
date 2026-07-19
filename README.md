@@ -1,4 +1,4 @@
-# Simple Python Task Manager
+# Simple Python PID conntroller
 
 A lightweight, cross-platform graphical Task Manager built with Python. It lists running system processes alphabetically and allows users to gracefully terminate or forcefully kill selected tasks. The interface auto-refreshes every 5 seconds to provide real-time updates.
 
