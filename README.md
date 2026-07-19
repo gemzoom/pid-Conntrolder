@@ -36,7 +36,7 @@ python pid-Conntrolder.py
 ## How to Use
 
 1. **Launch** the application to populate the process window.
-2. **Scroll** through the alphabetically ordered list.
+2. **Scroll** through the cpu usage ordered list.
 3. **Click** on a process name to select it.
 4. **Choose an action** at the bottom of the interface:
     *   Click **Terminate (Soft)** to request a normal closure.
