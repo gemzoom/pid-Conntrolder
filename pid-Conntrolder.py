@@ -1,6 +1,6 @@
 """
 Created on Sun Jul 19 10:29:44 2026
-this program is under the PolyForm Noncommercial License 10.0
+this program is under the PolyForm Noncommercial License 1.0.0
 @author: gemzoom
 """
 import psutil
