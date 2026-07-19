@@ -26,11 +26,11 @@ pip install psutil guizero
 
 ## How to Run
 
-1. Clone or download the script file (e.g., `task_manager.py`).
+1. Clone or download the script file [here](https://www.markdownguide.org).
 2. Run the script using your terminal or command prompt:
 
 ```bash
-python task_manager.py
+python pid-Conntrolder.py
 ```
 
 ## How to Use
