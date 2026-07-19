@@ -42,7 +42,7 @@ python task_manager.py
 
 ## License
 
-This project is licensed under the **PolyForm Noncommercial License 10.0**. It is free to use, modify, and distribute for noncommercial purposes.
+This project is licensed under the **PolyForm Noncommercial License 1.0.0**. It is free to use, modify, and distribute for noncommercial purposes.
 
 ***
 
