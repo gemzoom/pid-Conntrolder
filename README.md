@@ -18,6 +18,7 @@ You need Python 3 installed on your system along with the following libraries:
 
 *   **psutil:** Used for retrieving information on running processes and system utilization.
 *   **guizero:** A wrapper around `tkinter` designed to make creating simple graphical user interfaces quick and easy.
+
 You can install these libs with the following command:
 ```bash
 pip install psutil guizero
