@@ -26,7 +26,7 @@ pip install psutil guizero
 
 ## How to Run
 
-1. Clone or download the script file [here](https://www.markdownguide.org).
+1. Clone or download the script file [here](https://github.com/gemzoom/pid-Conntrolder/blob/main/pid-Conntrolder.py).
 2. Run the script using your terminal or command prompt:
 
 ```bash
